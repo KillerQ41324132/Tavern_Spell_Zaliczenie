@@ -3783,11 +3783,11 @@ MonoBehaviour:
     Path: event:/spell
   spellImpactEvent:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1934617787
+      Data2: 1262957695
+      Data3: -1381293440
+      Data4: -393907203
+    Path: event:/spell_trafienie
   insideRoomSnap:
     Guid:
       Data1: 815318414
