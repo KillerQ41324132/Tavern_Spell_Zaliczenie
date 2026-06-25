@@ -209,7 +209,7 @@ MonoBehaviour:
   Path: FMOD Studio/Tavern/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639177680290658457
+  lastModified: 639179925039839779
   FileSizes:
   - Name: Desktop
     Value: 2100
@@ -442,7 +442,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -4706091689187445245}
   cacheVersion: 131860
-  cacheTime: 639177680290658457
+  cacheTime: 639179925039839779
   SerializableEventsDict:
   - key: event:/Doors_single
     index: 0
@@ -472,6 +472,8 @@ MonoBehaviour:
     index: 12
   - key: event:/Footsteps/Jump
     index: 13
+  - key: event:/spell_trafienie
+    index: 14
 --- !u!114 &1426609597867781912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -515,7 +517,7 @@ MonoBehaviour:
   Path: FMOD Studio/Tavern/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639177680290647045
+  lastModified: 639179925039839779
   FileSizes:
   - Name: Desktop
     Value: 7958848

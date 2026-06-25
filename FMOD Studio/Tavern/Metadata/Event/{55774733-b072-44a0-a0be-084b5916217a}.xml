@@ -279,6 +279,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{0993c224-f14f-4fe5-98d6-468ac24bfa7e}">
+		<property name="triggerConditionMode">
+			<value>1</value>
+		</property>
 		<property name="start">
 			<value>59.075439336041129</value>
 		</property>
